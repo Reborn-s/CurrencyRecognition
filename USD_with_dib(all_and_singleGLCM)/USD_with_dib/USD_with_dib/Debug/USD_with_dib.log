@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/10/18 17:07:40。
+     1>项目“D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\USD_with_dib\USD_with_dib.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\USD_with_dib.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         f:\VS2010\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\Debug\USD_with_dib.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\USD_with_dib.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\Debug\USD_with_dib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\Debug\USD_with_dib.lib" /MACHINE:X86 Debug\USD_with_dib.exe.embed.manifest.res
+         Debug\Compute.obj
+         Debug\Dib.obj
+         Debug\GrayShow.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\USD_with_dib.exe.embed.manifest" /manifest Debug\USD_with_dib.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         USD_with_dib.vcxproj -> D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\Debug\USD_with_dib.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\USD_with_dib.unsuccessfulbuild”。
+         正在对“Debug\USD_with_dib.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\研究生项目\纹理识别\code\USD_with_dib(all_and_singleGLCM)\USD_with_dib\USD_with_dib\USD_with_dib.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.36

@@ -1,0 +1,261 @@
+识别种类	实际种类
+100		100
+100		100
+100		100
+  5		100	100ZN_102_down_trans_G.txt
+  5		100	100ZN_102_up_trans_G.txt
+  5		100	100ZN_103_down_trans_G.txt
+100		100
+100		100
+100		100
+  5		100	100ZN_105_down_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_106_up_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_71_down_trans_G.txt
+  5		100	100ZN_71_up_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_73_down_trans_G.txt
+ 10		100	100ZN_73_up_trans_G.txt
+100		100
+  5		100	100ZN_74_up_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_76_down_trans_G.txt
+100		100
+  5		100	100ZN_77_down_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_78_up_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_80_down_trans_G.txt
+100		100
+100		100
+  5		100	100ZN_81_up_trans_G.txt
+100		100
+  5		100	100ZN_82_up_trans_G.txt
+100		100
+100		100
+100		100
+100		100
+100		100
+  5		100	100ZN_85_up_trans_G.txt
+100		100
+  5		100	100ZN_86_up_trans_G.txt
+100		100
+100		100
+100		100
+100		100
+  5		100	100ZN_89_down_trans_G.txt
+  5		100	100ZN_89_up_trans_G.txt
+100		100
+  5		100	100ZN_90_up_trans_G.txt
+100		100
+  5		100	100ZN_91_up_trans_G.txt
+  5		100	100ZN_92_down_trans_G.txt
+  5		100	100ZN_92_up_trans_G.txt
+100		100
+  5		100	100ZN_93_up_trans_G.txt
+100		100
+100		100
+100		100
+  5		100	100ZN_95_up_trans_G.txt
+100		100
+100		100
+100		100
+100		100
+100		100
+100		100
+100		100
+  5		100	100ZN_99_up_trans_G.txt
+ 10		10
+ 50		10	10ZN_72_up_trans_G.txt
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+  5		10	10ZN_80_up_trans_G.txt
+ 50		10	10ZN_81_up_trans_G.txt
+100		10	10ZN_82_up_trans_G.txt
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+100		10	10ZN_91_up_trans_G.txt
+ 10		10
+ 10		10
+ 10		10
+ 10		10
+100		10	10ZN_96_up_trans_G.txt
+ 10		10
+ 10		10
+ 10		10
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+100		20	20ZN_83_down_trans_G.txt
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 20		20
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 10		50	50ZN_78_down_trans_G.txt
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+100		50	50ZN_83_up_trans_G.txt
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+ 50		50
+  5		50	50ZN_89_up_trans_G.txt
+ 50		50
+ 50		50
+100		50	50ZN_92_up_trans_G.txt
+  5		50	50ZN_93_up_trans_G.txt
+100		5	5ZN_71_down_trans_G.txt
+100		5	5ZN_71_up_trans_G.txt
+  5		5
+100		5	5ZN_72_up_trans_G.txt
+100		5	5ZN_73_down_trans_G.txt
+  5		5
+100		5	5ZN_74_down_trans_G.txt
+  5		5
+100		5	5ZN_75_down_trans_G.txt
+  5		5
+100		5	5ZN_76_down_trans_G.txt
+  5		5
+100		5	5ZN_77_down_trans_G.txt
+  5		5
+  5		5
+  5		5
+  5		5
+  5		5
+  5		5
+  5		5
+  5		5
+  5		5
+100		5	5ZN_82_up_trans_G.txt
+100		5	5ZN_83_down_trans_G.txt
+  5		5
+100		5	5ZN_84_down_trans_G.txt
+  5		5
+100		5	5ZN_85_down_trans_G.txt
+  5		5
+100		5	5ZN_86_down_trans_G.txt
+ 50		5	5ZN_86_up_trans_G.txt
+  5		5
+  5		5
+100		5	5ZN_88_down_trans_G.txt
+100		5	5ZN_88_up_trans_G.txt
+  5		5
+  5		5
+100		5	5ZN_90_down_trans_G.txt
+100		5	5ZN_90_up_trans_G.txt
+  5		5
+  5		5
+100		5	5ZN_92_down_trans_G.txt
+  5		5
+100		5	5ZN_93_down_trans_G.txt
+100		5	5ZN_93_up_trans_G.txt
+100		5	5ZN_94_down_trans_G.txt
+  5		5
+100		5	5ZN_95_down_trans_G.txt
+100		5	5ZN_95_up_trans_G.txt
+100		5	5ZN_96_down_trans_G.txt
+100		5	5ZN_96_up_trans_G.txt
+100		5	5ZN_97_down_trans_G.txt
+100		5	5ZN_97_up_trans_G.txt
+ 50		5	5ZN_98_down_trans_G.txt
+  5		5
+100		5	5ZN_99_down_trans_G.txt
+  5		5
+
+正确识别数：	187
+总数为：	256
+准确率为：	0.730469
